@@ -93,10 +93,12 @@ namespace Exercises<br>
     {<br>
         public static void Main(string[] args)<br>
         {<br>
-            MarksDetails Student1 = new MarksDetails("Shri Bhat", 21, "Male", 20190001, "MSc", 5, new int[] { 77, 80, 98, 95, 90 });<br>
+            MarksDetails Student1 = new MarksDetails("Swapnil Pai", 21, "Male", 20220007, "MSc", 1, new int[] { 93, 95, 98, 96, 99 });<br>
             Student1.Display();<br>
         }<br>
     }<br>
 }<br>
 
 OUTPUT:-
+![Screenshot 2022-02-04 111139](https://user-images.githubusercontent.com/98145032/152478551-713d51bb-b8bc-4b4f-9042-8da83652227f.png)
+
