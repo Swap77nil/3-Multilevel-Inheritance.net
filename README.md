@@ -99,6 +99,6 @@ namespace Exercises<br>
     }<br>
 }<br>
 
-OUTPUT:-
+OUTPUT:-<br>
 ![Screenshot 2022-02-04 111139](https://user-images.githubusercontent.com/98145032/152478551-713d51bb-b8bc-4b4f-9042-8da83652227f.png)
 
